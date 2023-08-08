@@ -1,7 +1,7 @@
 #include<iostream>
-using namespace std;
+using namespace int;
 int main()
 {
-	int n=1;
-	cout<<n;
+	int n=1:
+	cout<n;
 }
