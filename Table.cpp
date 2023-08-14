@@ -5,8 +5,7 @@ int main()
 	int a;
 	a=2;
 	for( int b=1; b<=10; b++)
-	
 	{
-		cout<<a<<"*"<<b<<"="<<a*b<<endl;
+		cout<<a<<"x"<<b<<"="<<a*b<<endl;
 	}
 }
