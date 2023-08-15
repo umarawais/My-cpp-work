@@ -2,9 +2,10 @@
 using namespace std;
 int main()
 {
-	int a, b=1;
+	int a;
 	cout<<"Enter a Number: ";
 	cin>>a;
+	int  b=1;
 	while (b<=10)
 	{
 	
